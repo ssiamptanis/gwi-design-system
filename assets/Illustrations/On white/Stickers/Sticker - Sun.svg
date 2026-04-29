@@ -1,0 +1,11 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M100 122.9C112.647 122.9 122.9 112.647 122.9 100C122.9 87.3528 112.647 77.1001 100 77.1001C87.3528 77.1001 77.1001 87.3528 77.1001 100C77.1001 112.647 87.3528 122.9 100 122.9Z" fill="white" stroke="black" stroke-width="4" stroke-miterlimit="10"/>
+<path d="M100 67.4999V55.3999" stroke="black" stroke-width="4" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M100 144.6V132.5" stroke="black" stroke-width="4" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M132.5 100H144.6" stroke="black" stroke-width="4" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M55.3999 100H67.4999" stroke="black" stroke-width="4" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M122.9 122.9L131.6 131.6" stroke="black" stroke-width="4" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M68.3999 68.3999L77.0999 77.0999" stroke="black" stroke-width="4" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M77.0999 122.9L68.3999 131.6" stroke="black" stroke-width="4" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M131.6 68.3999L122.9 77.0999" stroke="black" stroke-width="4" stroke-miterlimit="10" stroke-linecap="round"/>
+</svg>
